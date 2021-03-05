@@ -91,11 +91,11 @@ The stock analysis confirms that the stock analysis outputs for 2017 and 2018 ar
 
 ***Final VBA Analysis 2017***
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/78886925/110179163-97031600-7dd5-11eb-9dc5-0a078c7c323a.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/78886925/110180841-8607d400-7dd8-11eb-9082-88dbf6b17358.png)
 
 ***Final VBA Analysis 2018***
 
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/78886925/110179167-98344300-7dd5-11eb-93c5-0502db41c276.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/78886925/110180842-8607d400-7dd8-11eb-8748-78b7d7d02f40.png)
 
 **8. The pop-up messages showing the elapsed run time for the script are saved as `VBA_Challenge_2017.png` and `VBA_Challenge_2018.png`**
 
@@ -103,12 +103,11 @@ The stock analysis confirms that the stock analysis outputs for 2017 and 2018 ar
 
 ***Time on VBA_Challenge_2017.PNG***
 
-![Time for 2017 analysis](https://user-images.githubusercontent.com/78886925/110179255-bc901f80-7dd5-11eb-8807-7cbb61a0ce1f.png)
+![Time for 2017 analysis](https://user-images.githubusercontent.com/78886925/110180839-8607d400-7dd8-11eb-81fe-6e13e5c550b3.png)
 
 ***Time on VBA_Challenge_2018.PNG***
 
-![Time for 2018 analysis](https://user-images.githubusercontent.com/78886925/110179259-be59e300-7dd5-11eb-8eff-1b5519cc629d.png)
-
+![Time for 2018 analysis](https://user-images.githubusercontent.com/78886925/110180840-8607d400-7dd8-11eb-98c0-99f2f67f4a09.png)
 
 ## SUMMARY: Our Statement:
 
